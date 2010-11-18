@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CandadoVisual_1AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1131, 559}}";
+			sepNavSelRange = "{344, 0}";
+			sepNavVisRange = "{0, 476}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CandadoVisual_1AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1131, 741}}";
+			sepNavSelRange = "{1334, 0}";
+			sepNavVisRange = "{263, 1439}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CandadoVisual_1 */ = {
+		activeExec = 0;
+		executables = (
+			E1E90C511240557800A80A38 /* CandadoVisual_1 */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E1E90C511240557800A80A38 /* CandadoVisual_1 */;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CandadoVisual_1 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CandadoVisual_1 */,
+		);
+		codeSenseManager = E1E90C611240557F00A80A38 /* Code sense */;
+		executables = (
+			E1E90C511240557800A80A38 /* CandadoVisual_1 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					953,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306941674;
+			PBXWorkspaceStateSaveDate = 306941674;
+		};
+		perUserProjectItems = {
+			E1CDCFF3124B963F003717F6 /* PBXTextBookmark */ = E1CDCFF3124B963F003717F6 /* PBXTextBookmark */;
+			E1CDCFFE124B9686003717F6 /* PBXTextBookmark */ = E1CDCFFE124B9686003717F6 /* PBXTextBookmark */;
+			E1CDCFFF124B9686003717F6 /* PlistBookmark */ = E1CDCFFF124B9686003717F6 /* PlistBookmark */;
+			E1CDD000124B9686003717F6 /* PlistBookmark */ = E1CDD000124B9686003717F6 /* PlistBookmark */;
+		};
+		sourceControlManager = E1E90C601240557F00A80A38 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E1CDCFF3124B963F003717F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CandadoVisual_1AppDelegate.h */;
+		name = "CandadoVisual_1AppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 344;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	E1CDCFFE124B9686003717F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CandadoVisual_1AppDelegate.m */;
+		name = "CandadoVisual_1AppDelegate.m: 40";
+		rLen = 0;
+		rLoc = 1334;
+		rType = 0;
+		vrLen = 1439;
+		vrLoc = 263;
+	};
+	E1CDCFFF124B9686003717F6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CandadoVisual_1-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/koke/Desktop/iPhone projects/00 Prototypes/My Diary/CandadoVisual_1/CandadoVisual_1-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	E1CDD000124B9686003717F6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CandadoVisual_1-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Users/koke/Desktop/iPhone projects/00 Prototypes/My Diary/CandadoVisual_1/CandadoVisual_1-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	E1E90C511240557800A80A38 /* CandadoVisual_1 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CandadoVisual_1;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E1E90C601240557F00A80A38 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E1E90C611240557F00A80A38 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
